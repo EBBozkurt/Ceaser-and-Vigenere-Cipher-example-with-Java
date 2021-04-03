@@ -1,3 +1,17 @@
+## Ceaser cipher and Vigenere cipher example with Java.
+
+@author EBBozkurt
+
+
+
+
+Project Details (JAVA)
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
